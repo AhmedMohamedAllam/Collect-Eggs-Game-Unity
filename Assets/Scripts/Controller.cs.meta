@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 30ee35cc14b21304ea909eb4162dff5a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - NormalEgg: {fileID: 100000, guid: b0144d12d42deb54684505430d4e69f1, type: 2}
+  - HappyEgg: {fileID: 100000, guid: 8773c43ee7a6fbd45a9eacdf480719dc, type: 2}
+  - RedEgg: {fileID: 100000, guid: 6608dac9cf7a0fd46b75b16490737882, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
